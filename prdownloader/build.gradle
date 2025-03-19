@@ -39,7 +39,7 @@ android {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'com.github.amitshekhariitbhu'
+            groupId = 'com.github.imran'
             artifactId = 'PRDownloader'
             version = '2.0.1'
 
